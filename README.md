@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaymain21
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Software Engineering 
-- 💞️ I’m looking to collaborate on Emmerging projects
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kaymain21@gmail.com 
 
 <!---
